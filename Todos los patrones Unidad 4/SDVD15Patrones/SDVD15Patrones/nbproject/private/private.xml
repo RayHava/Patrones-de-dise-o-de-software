@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/modelo/HTMLFactura.java</file>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/controlador/FacturacionFacade.java</file>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/vista/InterFacturacion.java</file>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/modelo/FacturaFormat.java</file>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/modelo/CategoriaFlyweightFactory.java</file>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/controlador/Ctrl_Categoria.java</file>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/modelo/CategoriaDAOProxy.java</file>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/conexion/Conexion.java</file>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/modelo/DetalleVenta.java</file>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/controlador/Ctrl_RegistrarVenta.java</file>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/vista/InterCategoria.java</file>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/modelo/PDFFactura.java</file>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/controlador/StockHandler.java</file>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/vista/TablaCategoriasSingleton.java</file>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/vista/InterGestionarCategoria.java</file>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/controlador/FacturaAdapter.java</file>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/vista/FrmMenu.java</file>
+            <file>file:/C:/Users/hecto/Videos/Terceros%20patrones/SDVDProxy/SDVDProxy/src/modelo/ICategoriaDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
